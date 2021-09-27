@@ -6,7 +6,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently learning/developing applications with react, firebase, Python.
 - 📫 Reach me at
-www.linkedin.com/in/princesingh98
+www.linkedin.com/in/princesingh98/
+
 princeghy98@gmail.com
 
 
