@@ -8,6 +8,3 @@ Here are some ideas to get you started:
 - 📫 Reach me at
 www.linkedin.com/in/princesingh98/
 
-princeghy98@gmail.com
-
-
